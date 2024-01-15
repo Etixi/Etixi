@@ -11,13 +11,14 @@
 - 🌱 **Je travaille également Sur des projets De développement Web avec Java**.
 - 🤔 **Mes intérêts : DevOps - MLOPS - Bref l'aventure de le domaine de la data et du developpement Web**
 - 💬 **Posez-moi des questions sur l'IA, la science des données, Mathématiques, Developpement Web avec Java, MLOPS, DevOps.**
-- 📫 Comment me joindre : <a href="etiennekoa6@gmail.com">@Etixi</a>
+- 📫 **Comment me joindre :** <a href="etiennekoa6@gmail.com">@Etixi</a><br/>
 
 <!---
 Etixi/Etixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<br/>
 
 ### Programming Languages:
 
@@ -34,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
 
 
-
+<br/>
 
 ### 🌎 Web-Development
 
@@ -60,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<br/>
 
 ### Tools & Libraries Data Science: 
 
@@ -89,6 +91,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png"></code>
 
 
+<br/>
 
 
 ### Statistics : 
@@ -98,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etixi)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br/>
 
 ### **IDE**
 
@@ -115,7 +118,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" />
 </p>
 
-
+<br/>
 
 ### Connect with me 📬:
 
