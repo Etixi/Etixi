@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align='left'>
 <code><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" height="40" width="40" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="50" width="50"/></code>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
 
@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Connect with me 📬:
+### Connect with me 📬:
 
 ---
 
