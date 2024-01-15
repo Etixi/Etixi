@@ -1,5 +1,8 @@
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
+
+
 #### `LA CONNAISSANCE EST LE POUVOIR 💡` 
 
 - ✨ **Je travaille actuellement sur de grands projets d'IA & Data Science utilisant R & Python.**
@@ -12,10 +15,6 @@
 Etixi/Etixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
-
 
 
 ### Programming Languages:
