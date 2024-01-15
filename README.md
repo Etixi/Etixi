@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
 
-#### `LA CONNAISSANCE EST LE POUVOIR 💡` 
+# `LA CONNAISSANCE EST LE POUVOIR 💡` 
+
+---
 
 - ✨ **Je travaille actuellement sur de grands projets d'IA & Data Science utilisant R & Python.**
 - 🌱 **Je travaille également Sur des projets De développement Web avec Java**.
@@ -17,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Programming Languages:
+# Programming Languages:
 
 ---
 
@@ -33,7 +35,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### 🌎 Web-Development
+# 🌎 Web-Development
+
+---
+
 #### Front-End:
 
 <p align='left'>
@@ -47,13 +52,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align='left'>
 <code><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" height="40" width="40" /></code>
+<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40"/></code>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
 
 </p>
 
-## Ide
+# Ide
 
+---
 
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/atom.svg" alt="C language" height="50" width="50" />
@@ -64,7 +71,9 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-### Tools & Libraries Data Science: 
+# Tools & Libraries Data Science: 
+
+----
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026827-9e850700-9ecb-11eb-81ad-b8a9f8c05d47.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026923-b8264e80-9ecb-11eb-8ee7-909dd4110ca0.png"></code>
@@ -101,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## **Ide**
+# **Ide**
 
 ---
 
@@ -118,7 +127,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Connect with me 📬:
+# Connect with me 📬:
+
+---
 
 <p align="center">
 <a href="https://github.com/Etixi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
