@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
 
-# `LA CONNAISSANCE EST LE POUVOIR 💡` 
+### `LA CONNAISSANCE EST LE POUVOIR 💡` 
 
 ---
 
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Programming Languages:
+### Programming Languages:
 
 ---
 
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 🌎 Web-Development
+### 🌎 Web-Development
 
 ---
 
@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-# Ide
+### Ide
 
 ---
 
@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-# Tools & Libraries Data Science: 
+### Tools & Libraries Data Science: 
 
 ----
 
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# **Ide**
+### **Ide**
 
 ---
 
