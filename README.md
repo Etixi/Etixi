@@ -125,6 +125,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://github.com/Etixi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-<a href="etiennekoa6@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="50" width="50"/>
+<a href="etiennekoa6@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40" width="40"/>
 </p>
 
