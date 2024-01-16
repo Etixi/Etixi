@@ -9,7 +9,7 @@
 
 - ✨ **Je travaille actuellement sur de grands projets d'IA & Data Science utilisant R & Python.**
 - 🌱 **Je travaille également Sur des projets De développement Web avec Java**.
-- 🤔 **Mes intérêts : DevOps - MLOPS - Bref l'aventure de le domaine de la data et du developpement Web**
+- 🤔 **Mes intérêts : DevOps - MLOPS - Bref l'aventure dans le domaine de la data et du developpement Web**
 - 💬 **Posez-moi des questions sur l'IA, la science des données, Mathématiques, Developpement Web avec Java, MLOPS, DevOps.**
 - 📫 **Comment me joindre :** <a href="etiennekoa6@gmail.com">@Etixi</a><br/>
 
