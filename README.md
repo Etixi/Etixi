@@ -1,4 +1,4 @@
-<iframe src = "https://github.com/Etixi/Etixi/blob/main/Edward_Stachura-par-chanteuse.mp3" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+J'espère+le+trouver+utile+%E2%9C%A8)](https://git.io/typing-svg)
 
