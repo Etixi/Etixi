@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+Sur+Mon+Profil+%F0%9F%91%8B!;%3E%3E%3E+Mon+Souhait+Est Que+Tu+Trouves+Ton+Compte+!!!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+Sur+Mon+Profil+%F0%9F%91%8B!;%3E%3E%3E+Mon+Souhait+Est+ Que Tu Trouves+Ton Compte+!!!+%E2%9C%A8)](https://git.io/typing-svg)
 
 
 
