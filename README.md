@@ -1,4 +1,4 @@
-[![Listen Now](https://img.shields.io/badge/Listen-Now-blue.svg)](https://github.com/Etixi/Etixi/raw/main/Edward_Stachura-par-chanteuse.mp3)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
