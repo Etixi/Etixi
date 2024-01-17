@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+Parceque+ +%E2%9C%A8)](https://git.io/typing-svg)
 
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto&color=60A6FB&size=22&center=true&vCenter=true&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+Parce que+%E2%9C%A8+%E2%9C%A8)](https://git.io/typing-svg)
+
+
 
 ### `LA CONNAISSANCE EST LE POUVOIR 💡` 
 
