@@ -14,7 +14,9 @@
 - 🤔 **Mes intérêts : DevOps - MLOPS - Bref l'aventure dans le domaine de la data et du developpement Web**
 - 💬 **Posez-moi des questions sur l'IA, la science des données, Mathématiques, Developpement Web avec Java, MLOPS, DevOps.**
 - 📫 **Comment me joindre :** <a href="etiennekoa6@gmail.com">@Etixi</a><br/>
-- **N'hésitez à venir ici : https://github.com/Etidevcode (Nous voulons structurer nos projets)**
+- **N'hésitez pas à venir ici : https://github.com/Etidevcode (Java, DevOps, Spring Boot, React, Angular)**
+- **N'hésitez pas à venir ici : https://github.com/etixidata (En construction et reflexion)**
+- **N'hésitez pas à venir ici: https://github.com/etihacking (En construction et reflexion)**
 
 <!---
 Etixi/Etixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
