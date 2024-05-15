@@ -1,11 +1,11 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+Sur+Mon+Profil+%F0%9F%91%8B!;%3E%3E%3E+ Nous aimons le clean code !!!+%E2%9C%A8)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=60A6FB&size=22&center=true&vCenter=true&width=500&height=80&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+Nous+aimons+le+clean+code+%21%21%21+%E2%9C%A8)](https://git.io/typing-svg)
 
 
 
-### `En tant Que Passionné, Je suis subi les vagues de ce domaines. Mon but est de montrer qu'il existe des profils pluri-displicinaires. Nous souhaitons traviller un meilleur partenaire. Ce domaine va subir d'énorme d'échangement, il faudra s'adapter avec des profils agiles, ayant le soin de l'adaptation et de l'actualisation. 💡` 
+
+
+### `En tant Que Passionné, Je suis subi les vagues de ce domaine depuis un petit moment. Mon but est de montrer qu'il existe des profils pluri-displicinaires. Nous souhaitons, nous engagez avec un regard toujours nouveau dans ces différents domaines. Ces domaines vont subir d'énorme changements, il faudra s'adapter avec des profils agiles, ayant le soin de l'adaptation et de l'actualisation. Nous sommes passionnés, rigoueux et agile et vous ??? 💡` 
 
 ---
 
