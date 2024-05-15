@@ -1,11 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+Sur+Mon+Profil+%F0%9F%91%8B!;%3E%3E%3E+Soutien+Une+Penséée+!!!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=60A6FB&lines=%3E%3E%3E+Bienvenue+Sur+Mon+Profil+%F0%9F%91%8B!;%3E%3E%3E+ Nous aimons + le clean code + !!!+%E2%9C%A8)](https://git.io/typing-svg)
 
 
 
 
-### `LA CONNAISSANCE EST LE POUVOIR 💡` 
+### `En tant Que Passionné, Je suis subi les vagues de ce domaines. Mon but est de montrer qu'il existe des profils pluri-displicinaires. Nous souhaitons traviller un meilleur partenaire. Ce domaine va subir d'énorme d'échangement, il faudra s'adapter avec des profils agiles, ayant le soin de l'adaptation et de l'actualisation. 💡` 
 
 ---
 
