@@ -6,7 +6,7 @@
 
 
 
-### `En tant Que Passionné, Je suis subi les vagues de ce domaine depuis un petit moment. Mon but est de montrer qu'il existe des profils pluri-displicinaires. Nous souhaitons, nous engagez avec un regard toujours nouveau dans ces différents domaines. Ces domaines vont subir d'énorme changements, il faudra s'adapter avec des profils agiles, ayant le soin de l'adaptation et de l'actualisation. Nous sommes passionnés, rigoueux et agile et vous ??? 💡` 
+### `Passionné par ce domaine depuis un certain temps, j'ai navigué à travers ses différentes évolutions. Mon objectif est de mettre en avant la diversité des profils dans ce domaine. Nous aspirons à nous engager avec un regard neuf sur ces multiples facettes. Face aux changements constants de ces domaines, il est essentiel de s'adapter avec agilité, en prêtant une attention particulière à l'adaptation et à la mise à jour. Nous sommes passionnés, rigoureux et agiles, et vous ? 💡💡💡` 
 
 ---
 
