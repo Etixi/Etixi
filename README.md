@@ -1,12 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=60A6FB&size=22&center=true&vCenter=true&width=500&height=80&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+J'+aime+le+clean+code!!!+%21%21%21+%E2%9C%A8)](https://git.io/typing-svg)
 
+<hr/>
 
 
 ## Sky Orphan
 
 [![Watch the video](https://img.youtube.com/vi/wbI4DqWdReE/0.jpg)](https://www.youtube.com/watch?v=wbI4DqWdReE)
 
+<hr/>
 
 ### **Passionné par ce domaine depuis un certain temps, j'ai navigué à travers ses différentes évolutions. Mon objectif est de mettre en avant la diversité des profils dans ce domaine. Nous aspirons à nous engager avec un regard neuf sur ces multiples facettes. Face aux changements constants de ces domaines, il est essentiel de s'adapter avec agilité, en prêtant une attention particulière à l'adaptation et à la mise à jour. Nous sommes passionnés, rigoureux et agiles, et vous ? 💡💡💡** 
 
