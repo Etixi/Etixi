@@ -1,4 +1,4 @@
-## Bienvenue Dans mon Univers :  Code && Documentation - Et Bientôt Ma PLus Rencontre (Les Mathématiques)
+## Bienvenue Dans mon Univers :  Code && Documentation - Et Bientôt Ma PLus Belle Des Rencontres (Les Mathématiques)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=60A6FB&size=22&center=true&vCenter=true&width=500&height=80&lines=%3E%3E%3E+Bienvenue+sur+mon+profil+%F0%9F%91%8B!;%3E%3E%3E+J'+aime+le+clean+code!!!+%21%21%21+%E2%9C%A8)](https://git.io/typing-svg)
