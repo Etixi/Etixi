@@ -1,7 +1,7 @@
 ## Qui sommes-nous en réalité? Des Orphelins Du Ciels Aux Prix De l'Exigences
 
 <audio controls>
-  <source src="https://drive.google.com/uc?export=download&id=1778pjl_DimNauuudX0S7nAfnagraxy6l" type="audio/mpeg">
+  <source src="https://drive.google.com/file/d/1778pjl_DimNauuudX0S7nAfnagraxy6l/view?usp=drive_link" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
